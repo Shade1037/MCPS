@@ -25,6 +25,7 @@
     #254f97 1px,
     #1e3f78 2px
   );
+  color: white;
   overflow: hidden;
 }
 
@@ -118,4 +119,12 @@ h1 {
     font-family: "Barlow", sans-serif;
     font-weight: 500;
     font-style: normal;
+}
+
+.topnav h3 {
+    font-family: "Barlow", sans-serif;
+    text-align: right;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0;
 }
