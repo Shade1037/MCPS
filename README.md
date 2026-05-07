@@ -12,3 +12,5 @@ While the crew started out as just a small cash grab to exploit paranoid people,
 However, once Z-Core (along with their parent company HazTek) caught on to the damage that the MCPS was causing to their reputation, they quickly shut the program down, censored evidence, and denied any accusations. It is unknown what happened to the members of the MCPS after this.
 
 The MCPS was founded on May 5th, 2019, and was completely disbanded on March 17th, 2021
+
+- Please note that the copyright, terms of service, and privacy policy are void as the group is disbanded
