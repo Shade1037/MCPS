@@ -13,4 +13,4 @@ However, once Z-Core (along with their parent company HazTek) caught on to the d
 
 The MCPS was founded on May 5th, 2019, and was completely disbanded on March 17th, 2021
 
-- Please note that the copyright, terms of service, and privacy policy are void as the group is disbanded
+- Please note that the copyright, terms of service, and privacy policy are void as the group is disbanded. All unavailable information was redacted using #s.
